@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <statemachine:StateMachine xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:statemachine="http://nl.vu.cs.bumble/statemachine">
-  <inputs name="Goo"/>
+  <inputs name="GOOOOO"/>
   <inputs name="Wait"/>
   <inputs name="Stop"/>
   <transitions description="fromRedtoYellow" input="//@inputs.1" from="//@states.0" to="//@states.2"/>
